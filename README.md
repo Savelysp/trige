@@ -1,4 +1,4 @@
-# Pitchford project
+# Trige Support
 
 Система обработки клиентских обращений
 

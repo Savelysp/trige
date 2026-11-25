@@ -17,7 +17,7 @@ class Settings(BaseSettings):
     )
 
     # --- app ---
-    app_name: str = "Pitchford Support"
+    app_name: str = "Trige Support"
     app_env: Literal["dev", "staging", "prod"]
     debug: bool = False
     log_level: str = "INFO"
